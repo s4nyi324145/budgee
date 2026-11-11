@@ -57,7 +57,7 @@
     "typecheck": "tsc --noEmit",
     "test": "jest",
     "e2e": "maestro test e2e/",
-    "db:types": "supabase gen types typescript --local > src/lib/database.types.ts",
+    "db:types": "supabase gen types typescript --remote --schema public > src/lib/database.types.ts",
     "format": "prettier --write ."
   },
   "private": true
