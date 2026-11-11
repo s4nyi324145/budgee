@@ -1,0 +1,18 @@
+{
+  "tabs": {
+    "home": "Home",
+    "transactions": "Transactions",
+    "budgets": "Budgets",
+    "goals": "Goals",
+    "profile": "Profile"
+  },
+  "auth": {
+    "signIn": "Sign in",
+    "signUp": "Create account",
+    "onboarding": "Welcome to Budgee"
+  },
+  "common": {
+    "comingSoon": "Coming soon",
+    "comingSoonMessage": "Budgee is still building this one. Hang tight! 🐝"
+  }
+}

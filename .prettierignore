@@ -1,0 +1,7 @@
+node_modules
+.expo
+dist
+ios
+android
+src/lib/database.types.ts
+CLAUDE.md

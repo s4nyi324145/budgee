@@ -1,0 +1,1 @@
+-- Local dev seed data, applied by `npx supabase db reset` after all migrations.

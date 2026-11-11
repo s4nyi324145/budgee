@@ -1,0 +1,6 @@
+# Smoke test: the app launches and lands on the Home tab.
+# Run: npm run e2e (needs Maestro + a dev build on a simulator)
+appId: com.budgee.app
+---
+- launchApp
+- assertVisible: 'Home'
